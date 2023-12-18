@@ -24,3 +24,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Loan-Default-Prediction&theme=vision-friendly-dark)](https://github.com/LimKimHoong/Loan-Default-Prediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Effects-of-COVID-19-Symptoms-on-Individuals-Healths&theme=vision-friendly-dark)](https://github.com/LimKimHoong/Effects-of-COVID-19-Symptoms-on-Individuals-Healths)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Travel-Trend&theme=vision-friendly-dark)](https://github.com/LimKimHoong/Travel-Trend)
+
+## Top Languages
+![LimKimHoong's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimKimHoong&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
