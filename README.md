@@ -1,4 +1,8 @@
-# 👋 Hi There 
+<img src="./assets/8bitbackground.gif" alt="banner">
+<div align="center">
+    <h1 align="left">😎 Brandon Ban</h1>
+    <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
+</div>
 
 <a href="#LimKimHoong-title">
   <img src="https://github-readme-stats.vercel.app/api?username=LimKimHoong&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="LimKimHoong's GitHub stats" align="right" />
@@ -19,6 +23,15 @@
     </a>
 </p>
 
+<br />
+<h2 align="left">📊 Github's Stats</h2>
+<div align="center">
+    <img width="360px" alt="GitHub Stats" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/LimKimHoong?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
+    <img width="400px" alt="GitHub Streak" height="180px" float="right" src="https://streak-stats.demolab.com/?user=LimKimHoong&theme=great-gatsby&mode=weekly&date_format=M%20j[,%20Y]">
+</div>
+<br />
+<br />
+
 ## Featured Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Chinese-Handwritten-Digit-Recognition-Using-Machine-Learning&theme=vision-friendly-dark)](https://github.com/LimKimHoong/Chinese-Handwritten-Digit-Recognition-Using-Machine-Learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Loan-Default-Prediction&theme=vision-friendly-dark)](https://github.com/LimKimHoong/Loan-Default-Prediction)
@@ -26,4 +39,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Travel-Trend&theme=vision-friendly-dark)](https://github.com/LimKimHoong/Travel-Trend)
 
 ## Top Languages
-![LimKimHoong's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LimKimHoong&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<div>
+    <img align="left" src="./assets/multi-environment.gif" width="300" height="200" />
+    <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimKimHoong&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+    <img align="right" src="./assets/multi-environment.gif" width="300" height="200" />
+</div>
