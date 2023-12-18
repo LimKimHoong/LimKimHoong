@@ -1,4 +1,4 @@
-<img src="./assets/giphy.gif" alt="banner">
+<img src="./assets/wallpaper1.gif" alt="banner">
 <div align="center">
     <h1 align="left">👨🏻‍💻 Senior Data Analyst @ OKX </h1>
     <img align="left" width="180px" height="180px" src="./assets/astronaut.gif" loop="infinite"/>
