@@ -31,6 +31,6 @@
 
 <h2 align="left">🏆 Favourite Tools</h2>
 <div>
-    <img align="center" width="400px" height = "300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimKimHoong&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+    <img align="center" width="400px" height = "300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimKimHoong&theme=react&show_icons=true&hide_border=true&layout=compact" />
     <img align="left" src="./assets/pokemon.gif" width="300" height="200" />
 </div>
