@@ -1,7 +1,7 @@
 <img src="./assets/giphy.gif" alt="banner">
 <div align="center">
     <h1 align="left">👨🏻‍💻 Senior Data Analyst @ OKX </h1>
-    <img align="right" width="180px" height="180px" src="./assets/pokemon.gif" loop="infinite"/>
+    <img align="left" width="180px" height="180px" src="./assets/pokemon.gif" loop="infinite"/>
 </div>
 
 - 🏠 Currently based in Kuala Lumpur, Malaysia
@@ -15,6 +15,9 @@
     <a href="mailto:kimhoong0324@gmail.com">
         <img alt="E-mail" title="Contact me via E-mail" src="https://custom-icon-badges.demolab.com/badge/Email-8B0000?style=for-the-badge&logo=mail&logoColor=white">
     </a>
+     <a href="https://github.com/LimKimHoong">
+        <img src="https://komarev.com/ghpvc/?username=LimKimHoong&color=blueviolet&style=for-the-badge&label=Profile+Views">
+    </a>
 </p>
 
 <br />
@@ -25,11 +28,21 @@
 </div>
 <br />
 
-## Featured Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Loan-Default-Prediction&theme=vision-friendly-dark)](https://github.com/LimKimHoong/Loan-Default-Prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Chinese-Handwritten-Digit-Recognition-Using-Machine-Learning&theme=vision-friendly-dark)](https://github.com/LimKimHoong/Chinese-Handwritten-Digit-Recognition-Using-Machine-Learning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Effects-of-COVID-19-Symptoms-on-Individuals-Healths&theme=vision-friendly-dark)](https://github.com/LimKimHoong/Effects-of-COVID-19-Symptoms-on-Individuals-Healths)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Travel-Trend&theme=vision-friendly-dark)](https://github.com/LimKimHoong/Travel-Trend)
+<h2 align="left">📖 Featured Repositories</h2>
+<div align="center">
+    <a href="https://github.com/LimKimHoong/Loan-Default-Prediction" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Loan-Default-Prediction&theme=vision-friendly-dark&hide=stars&show_owner=true"/>
+    </a>
+    <a href="https://github.com/LimKimHoong/Chinese-Handwritten-Digit-Recognition-Using-Machine-Learning" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Chinese-Handwritten-Digit-Recognition-Using-Machine-Learning&theme=vision-friendly-dark&hide=stars&show_owner=true"/>
+    </a>
+     <a href="https://github.com/LimKimHoong/Effects-of-COVID-19-Symptoms-on-Individuals-Healths" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Effects-of-COVID-19-Symptoms-on-Individuals-Healths&theme=vision-friendly-dark&hide=stars&show_owner=true"/>
+    </a>
+     <a href="https://github.com/LimKimHoong/Travel-Trend" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Travel-Trend&theme=vision-friendly-dark&hide=stars&show_owner=true"/>
+    </a>
+</div>
 
 ## Top Languages
 <div>
