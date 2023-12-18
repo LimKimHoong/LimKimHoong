@@ -1,6 +1,6 @@
-### 👋 Hi There 
+# 👋 Hi There 
 
-## Senior Data Analyst @ OKX
+### Senior Data Analyst @ OKX
 
 - 🏠 Currently based in Kuala Lumpur, Malaysia
 - 👨‍🎓 **B.S.** in **Financial Mathematics** & **M.S.** in **Data Science** (major in Computer Vision)
