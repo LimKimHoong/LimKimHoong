@@ -1,9 +1,8 @@
-<img src="./assets/8bitbackground.gif" alt="banner">
+<img src="./assets/giphy.gif" alt="banner">
 <div align="center">
-    <h1 align="left">😎 Brandon Ban</h1>
+    <h1 align="left">🙋🏻‍♂️ Hi There ! </h1>
     <img align="right" width="180px" height="180px" src="./assets/luffy.gif" loop="infinite"/>
 </div>
-
 <a href="#LimKimHoong-title">
   <img src="https://github-readme-stats.vercel.app/api?username=LimKimHoong&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="LimKimHoong's GitHub stats" align="right" />
 </a>
