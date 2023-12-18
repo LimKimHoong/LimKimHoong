@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 👋
 
 - 🔭 I’m currently working as a Senior Data Analyst @ OKX. 
 - 🌱 I’m currently learning on MITx: Machine Learning with Python: from Linear Models to Deep Learning
