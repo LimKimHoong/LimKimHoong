@@ -33,8 +33,8 @@
     <a href="https://github.com/LimKimHoong/Loan-Default-Prediction" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Loan-Default-Prediction&theme=vision-friendly-dark&hide=stars&show_owner=true"/>
     </a>
-    <a href="https://github.com/LimKimHoong/Chinese-Handwritten-Digit-Recognition-Using-Machine-Learning" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Chinese-Handwritten-Digit-Recognition-Using-Machine-Learning&theme=vision-friendly-dark&hide=stars&show_owner=true"/>
+    <a href="https://github.com/LimKimHoong/Chinese-Handwritten-Digit-Recognition" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Chinese-Handwritten-Digit-Recognition&theme=vision-friendly-dark&hide=stars&show_owner=true"/>
     </a>
      <a href="https://github.com/LimKimHoong/Effects-of-COVID-19-Symptoms-on-Individuals-Healths" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Effects-of-COVID-19-Symptoms-on-Individuals-Healths&theme=vision-friendly-dark&hide=stars&show_owner=true"/>
