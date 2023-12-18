@@ -29,22 +29,6 @@
 </div>
 <br />
 
-<h2 align="left">📖 Featured Repositories</h2>
-<div align="center">
-    <a href="https://github.com/LimKimHoong/Loan-Default-Prediction" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Loan-Default-Prediction&theme=vision-friendly-dark&hide=stars&show_owner=true"/>
-    </a>
-    <a href="https://github.com/LimKimHoong/Chinese-Handwritten-Digit-Recognition" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Chinese-Handwritten-Digit-Recognition&theme=vision-friendly-dark&hide=stars&show_owner=true"/>
-    </a>
-     <a href="https://github.com/LimKimHoong/Effects-of-COVID-19-Symptoms-on-Individuals-Healths" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Effects-of-COVID-19-Symptoms-on-Individuals-Healths&theme=vision-friendly-dark&hide=stars&show_owner=true"/>
-    </a>
-     <a href="https://github.com/LimKimHoong/Travel-Trend" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Travel-Trend&theme=vision-friendly-dark&hide=stars&show_owner=true"/>
-    </a>
-</div>
-
 <h2 align="left">🏆 Favourite Tools</h2>
 <div>
     <img align="center" width="400px" height = "300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimKimHoong&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
