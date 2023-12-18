@@ -24,7 +24,7 @@
 <br />
 <h2 align="left">📊 Github's Stats</h2>
 <div align="center">
-    <img width="410px" alt="GitHub Stats" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/LimKimHoong?theme=dark&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
+    <img width="410px" alt="GitHub Stats" height="180px" float="left" src="https://awesome-github-stats.azurewebsites.net/user-stats/LimKimHoong?theme=react&cardType=github&ring=D4AF37&show_icons=true&preferLogin=true&title=D4AF37">
     <img width="450px" alt="GitHub Streak" height="180px" float="right" src="https://streak-stats.demolab.com/?user=LimKimHoong&theme=great-gatsby&mode=weekly&date_format=M%20j[,%20Y]">
 </div>
 <br />
