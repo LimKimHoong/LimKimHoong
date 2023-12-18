@@ -21,6 +21,6 @@
 
 ## Featured Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Chinese-Handwritten-Digit-Recognition-Using-Machine-Learning&theme=vision-friendly-dark)](https://github.com/LimKimHoong/Chinese-Handwritten-Digit-Recognition-Using-Machine-Learning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Loan-Default-Prediction&theme=vision-friendly-dark)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Loan-Default-Prediction&theme=vision-friendly-dark)](https://github.com/LimKimHoong/Loan-Default-Prediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Effects-of-COVID-19-Symptoms-on-Individuals-Healths&theme=vision-friendly-dark)](https://github.com/LimKimHoong/Effects-of-COVID-19-Symptoms-on-Individuals-Healths)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LimKimHoong&repo=Travel-Trend&theme=vision-friendly-dark)](https://github.com/LimKimHoong/Travel-Trend)
