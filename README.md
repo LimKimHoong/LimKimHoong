@@ -17,7 +17,7 @@
         <img alt="E-mail" title="Contact me via E-mail" src="https://custom-icon-badges.demolab.com/badge/Email-8B0000?style=for-the-badge&logo=mail&logoColor=white">
     </a>
      <a href="https://limkimhoong.github.io/terminalWebsite"/](https://limkimhoong.github.io/terminalWebsite/)">
-        <img alt="Resume" title="Checkout My Resume in Web Form" src="https://custom-icon-badges.demolab.com/badge/-My%20Resume-green?style=for-the-badge&logoColor=white&logo=repo"/>
+        <img alt="Resume" title="Checkout My Resume in Web Form" src="https://custom-icon-badges.demolab.com/badge/-Personal%20Website-green?style=for-the-badge&logoColor=white&logo=repo"/>
     </a>
      <a href="https://github.com/LimKimHoong">
         <img src="https://komarev.com/ghpvc/?username=LimKimHoong&color=blueviolet&style=for-the-badge&label=Profile+Views">
