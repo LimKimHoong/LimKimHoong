@@ -1,6 +1,6 @@
 <img src="./assets/wallpaper1.gif" alt="banner">
 <div align="center">
-    <h1 align="left">👨🏻‍💻 AI Engineer </h1>
+    <h1 align="left">👨🏻‍💻 Data Scientist </h1>
     <img align="left" width="180px" height="180px" src="./assets/astronaut.gif" loop="infinite"/>
 </div>
 
